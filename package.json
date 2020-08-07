@@ -1,6 +1,6 @@
 {
     "name": "onsenui-v2-angular1-tabbar",
-    "version": "2.0.7",
+    "version": "2.1.0",
     "cordova": {
         "plugins": {
             "cordova-custom-config": {},
